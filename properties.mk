@@ -1,4 +1,4 @@
-DEVICE = venu2s
-SDK_HOME = /Users/klimeryk/work/tools/connectiq-sdk-mac
-DEPLOY = /Volumes/GARMIN/GARMIN/APPS/
-PRIVATE_KEY = /Users/klimeryk/work/tools/connectiq/developer_key.der
+DEVICE = fr245
+SDK_HOME = /home/maki/connectiq-sdk-manager
+DEPLOY = /run/media/maki/GARMIN/GARMIN/APPS
+PRIVATE_KEY = /home/maki/projects/connectiq/developer_key
